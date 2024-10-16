@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #f1b546;
+}
+  
+#galeri h2 {
+    color: #000000; /* Warna teks heading */
+    margin-top: -30px;
+  }
+
+section {
+    padding-top: 5rem;
+}
+
+.nav-link.active {
+    font-weight: bold; /* Menjadi tebal */
+    text-decoration: underline; /* Opsional: menambahkan garis bawah */
+}
+
+
+
+
+ 
+  
+  
