@@ -17,6 +17,10 @@ section {
     text-decoration: underline; /* Opsional: menambahkan garis bawah */
 }
 
+.footer-spacing {
+    padding-top: 20px; /* Atau bisa menggunakan margin-top jika perlu */
+  }
+  
 
 
 
